@@ -9,5 +9,8 @@
   "repository": "git@github.com:skrider/skrider.git",
   "author": "Stephen Krider <skrider@berkeley.edu>",
   "license": "MIT",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "gatsby": "^4.17.1"
+  }
 }
