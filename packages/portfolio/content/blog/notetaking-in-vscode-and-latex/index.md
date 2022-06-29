@@ -1,6 +1,6 @@
 ---
 title: Notetaking in VS Code and LaTeX
-date: "2015-05-01T22:12:03.284Z"
+date: "2022-06-28T22:12:03.284Z"
 description: "My current setup for taking CS and Math notes in VS Code and LaTeX"
 ---
 
