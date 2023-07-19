@@ -44,7 +44,9 @@ const Bio = () => {
       /> */}
       {author?.name && (
         <p>
-          Welcome to my website!
+          I'm a third-year student at UC Berkeley interested in building intelligent software solutions.
+          My primary research interests are in natural language processing, specifically dense retrieval.
+          Always down to chat about machine learning ideas! Find me on the following socials:
         </p>
       )}
     </div>

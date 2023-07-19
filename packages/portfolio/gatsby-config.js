@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Stephen Krider's Portfolio`,
+    title: `Stephen Krider`,
     author: {
       name: `Stephen Krider`,
       summary: `Who studies computer science at UC Berkeley`,
